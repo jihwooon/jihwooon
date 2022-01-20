@@ -8,6 +8,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-안녕하십니까? 개발자 안지환입니다.
-개발자를 하기 전부터 개발의 대한 관심과 열정를 가지고 있었습니다.
+안녕하십니까? 개발자 안지환입니다.  
+개발자를 하기 전부터 개발의 대한 관심과 열정를 가지고 있었습니다.  
 평소에도 개발 공부를 꾸준하고 있고 무엇보다 새로운 것을 배우는것에 재미를 두고 있습니다.
