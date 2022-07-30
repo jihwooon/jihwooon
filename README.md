@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihwan%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Just%20Do%20It!&descAlignY=51&descAlign=62)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jihwooon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![jihwooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwooon&show_icons=true&theme=dark)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
