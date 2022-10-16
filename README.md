@@ -8,7 +8,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 
 안녕하십니까? 개발자 안지환입니다.  
