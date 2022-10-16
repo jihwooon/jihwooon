@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jihwooon)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahnjihwan)](https://github.com/anuraghazra/github-readme-stats)
 
 안녕하십니까? 개발자 안지환입니다.  
 개발자를 하기 전부터 개발의 대한 관심과 열정를 가지고 있었습니다.  
