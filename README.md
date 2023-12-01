@@ -6,9 +6,9 @@
 JavaScript / TypeScript / NestJS / NodeJS / MySQL / AWS
 
 ## I’m currently...
-- 📝 제 기술블로그는 [https://velog.io/@jihwooon](https://velog.io/@jihwooon) 입니다.
-- 📝 제 개인블로그는 [https://medium.com/@jihwooon](https://medium.com/@jihwooon) 입니다.
-- 📝 제 프로젝트는 [https://jihwanlog.vercel.app/](https://jihwanlog.vercel.app/) 입니다.
+- 📝 제 기술블로그는 [@jihwooon.velog](https://velog.io/@jihwooon) 입니다.
+- 📝 제 개인블로그는 [@jihwooon.medium](https://medium.com/@jihwooon) 입니다.
+- 📝 제 프로젝트는 [@jihwanlog](https://jihwanlog.vercel.app/) 입니다.
 
 ## Recent blog posts
 
